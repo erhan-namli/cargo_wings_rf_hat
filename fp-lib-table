@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_Samtec_HLE_SMD-ML")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/Connector_Samtec_HLE_SMD-ML.pretty")(options "")(descr ""))
+  (lib (name "XCVR_DWM1000")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/XCVR_DWM1000.pretty")(options "")(descr ""))
+  (lib (name "XCVR_ESP32-S3-WROOM-1-N8R2")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/XCVR_ESP32-S3-WROOM-1-N8R2")(options "")(descr ""))
+  (lib (name "molex_usb")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/molex_usb.pretty")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/Graphics.pretty")(options "")(descr ""))
+)
