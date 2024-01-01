@@ -5,4 +5,6 @@
   (lib (name "XCVR_ESP32-S3-WROOM-1-N8R2")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/XCVR_ESP32-S3-WROOM-1-N8R2")(options "")(descr ""))
   (lib (name "molex_usb")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/molex_usb.pretty")(options "")(descr ""))
   (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/Graphics.pretty")(options "")(descr ""))
+  (lib (name "IC_MSP430FR2522IRHLR")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/IC_MSP430FR2522IRHLR.pretty")(options "")(descr ""))
+  (lib (name "Texas_Instruments-SIL0010D-0-0-MFG")(type "KiCad")(uri "${KIPRJMOD}/user_lib/pcb/Texas_Instruments-SIL0010D-0-0-MFG.pretty")(options "")(descr ""))
 )

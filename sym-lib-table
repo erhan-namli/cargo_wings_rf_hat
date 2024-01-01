@@ -4,4 +4,6 @@
   (lib (name "DWM1000")(type "KiCad")(uri "${KIPRJMOD}/user_lib/sch/DWM1000.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-WROOM-1-N8R2")(type "KiCad")(uri "${KIPRJMOD}/user_lib/sch/ESP32-S3-WROOM-1-N8R2.kicad_sym")(options "")(descr ""))
   (lib (name "105450-0101")(type "KiCad")(uri "${KIPRJMOD}/user_lib/sch/105450-0101.kicad_sym")(options "")(descr ""))
+  (lib (name "Texas_Instruments-SIL0010D-0-0-MFG")(type "Legacy")(uri "${KIPRJMOD}/user_lib/sch/Texas_Instruments-SIL0010D-0-0-MFG.lib")(options "")(descr ""))
+  (lib (name "TPS61088RHLT")(type "KiCad")(uri "${KIPRJMOD}/user_lib/sch/TPS61088RHLT.kicad_sym")(options "")(descr ""))
 )

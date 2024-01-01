@@ -1,4 +1,4 @@
-21748387404133236
+21751706393593573
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54571,6 +54571,13 @@ heatsink
 0
 2
 1
+IC_MSP430FR2522IRHLR
+IC_MSP430FR2522IRHLR
+
+
+0
+29
+29
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -88997,6 +89004,13 @@ test point THT pad
 0
 1
 1
+Texas_Instruments-SIL0010D-0-0-MFG
+Texas_Instruments-SIL0010D-0-0-MFG
+
+
+0
+10
+10
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
